@@ -1,0 +1,119 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* ============================================================
+   Teal Dark Theme — Data & AI Professional
+   Palette: #00d9c0 (teal) · #7c5cbf (violet) · #0d1117 (navy)
+   ============================================================ */
+
+html[data-mode='dark'] {
+  /* Accent */
+  --link-color: #00d9c0;
+  --link-underline-color: rgba(0, 217, 192, 0.25);
+
+  /* Main background — GitHub dark navy */
+  --main-bg: rgb(13 17 23);
+  --main-border-color: rgb(30 37 46);
+  --card-header-bg: #161b22;
+  --btn-border-color: #30363d;
+  --btn-backtotop-border-color: #21262d;
+
+  /* Headings & text */
+  --heading-color: #e6edf3;
+  --text-color: #8b949e;
+  --text-muted-color: #6e7681;
+
+  /* Sidebar */
+  --sidebar-bg: #0d1117;
+  --sidebar-border-color: #21262d;
+  --sidebar-hover-bg: #161b22;
+  --sidebar-btn-bg: #161b22;
+  --sidebar-btn-color: #8b949e;
+  --sidebar-muted-color: #8b949e;
+  --sidebar-active-color: #00d9c0;
+  --site-title-color: #00d9c0;
+  --site-subtitle-color: #8b949e;
+  --avatar-border-color: #00d9c0;
+
+  /* TOC */
+  --toc-highlight: #00d9c0;
+
+  /* Tags */
+  --tag-hover: rgba(0, 217, 192, 0.08);
+  --tag-border: rgba(0, 217, 192, 0.25);
+  --tag-shadow: rgba(0, 0, 0, 0.3);
+
+  /* Topbar */
+  --topbar-bg: rgba(13, 17, 23, 0.85);
+  --input-focus-border-color: #00d9c0;
+
+  /* Blockquote */
+  --blockquote-border-color: #00d9c0;
+}
+
+/* --- Avatar: gradient border teal → violet --- */
+html[data-mode='dark'] #avatar img {
+  border: 2px solid transparent;
+  background:
+    linear-gradient(#0d1117, #0d1117) padding-box,
+    linear-gradient(135deg, #00d9c0, #7c5cbf) border-box;
+  border-radius: 50%;
+}
+
+/* --- Sidebar title glow --- */
+html[data-mode='dark'] #sidebar .site-title a {
+  background: linear-gradient(90deg, #00d9c0, #7c5cbf);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* --- Active nav item --- */
+html[data-mode='dark'] #sidebar nav li.active a,
+html[data-mode='dark'] #sidebar nav a.active {
+  color: #00d9c0 !important;
+}
+
+/* --- Post title links --- */
+html[data-mode='dark'] h1 a,
+html[data-mode='dark'] h2 a,
+html[data-mode='dark'] .post-title a {
+  color: #e6edf3;
+}
+
+html[data-mode='dark'] h1 a:hover,
+html[data-mode='dark'] .post-title a:hover {
+  color: #00d9c0;
+}
+
+/* --- Tag pills --- */
+html[data-mode='dark'] .post-tag {
+  border-color: rgba(0, 217, 192, 0.25);
+  color: #00d9c0;
+}
+
+html[data-mode='dark'] .post-tag:hover {
+  background-color: rgba(0, 217, 192, 0.08);
+  border-color: #00d9c0;
+  color: #00d9c0;
+}
+
+/* --- Code block accent border --- */
+html[data-mode='dark'] div.highlight,
+html[data-mode='dark'] figure.highlight {
+  border-left: 2px solid rgba(0, 217, 192, 0.4);
+}
+
+/* --- Mermaid diagram background --- */
+html[data-mode='dark'] .mermaid {
+  background: rgba(13, 17, 23, 0.6);
+  border-radius: 8px;
+  padding: 1rem;
+}
