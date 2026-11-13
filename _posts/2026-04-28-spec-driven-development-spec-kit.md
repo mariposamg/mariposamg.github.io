@@ -1,6 +1,7 @@
 ---
 title: "Spec-Driven Development with spec-kit: Stop Vibe Coding, Start Specifying"
 date: 2026-04-28 09:00:00 +0100
+description: "How Spec-Driven Development with GitHub spec-kit keeps AI coding agents aligned with intent: structured specs, plans and tasks instead of vibe coding."
 categories: [Engineering, AI]
 tags: [spec-driven-development, ai-agents, claude-code, github-copilot, software-engineering, genai]
 ---
