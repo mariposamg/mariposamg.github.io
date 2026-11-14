@@ -1,6 +1,7 @@
 ---
 title: "Agentic BI on Microsoft Fabric: Architecture and Implementation"
 date: 2026-04-28 08:00:00 +0100
+description: "A three-layer Agentic BI architecture with Fabric data agents, Microsoft Foundry and Copilot Studio that delivers insights where decisions are made."
 categories: [Architecture, AI]
 tags: [microsoft-fabric, agentic-ai, data-agent, azure-ai-foundry, copilot-studio, genai, power-bi]
 ---
