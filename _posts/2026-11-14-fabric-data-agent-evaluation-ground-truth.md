@@ -4,7 +4,6 @@ date: 2026-11-14 08:00:00 +0100
 categories: [Data Platform, AI]
 tags: [microsoft-fabric, data-agent, evaluation, genai, agentic-ai, llmops]
 description: "Test a Fabric data agent before users trust it: golden-SQL ground truth, deterministic checks beside the SDK's LLM critic, and a CI release gate."
-mermaid: true
 image:
   path: /assets/img/posts/fabric-data-agent-eval.png
   alt: "Evaluation loop for a Microsoft Fabric data agent"
@@ -51,23 +50,8 @@ In real projects, this leaves three gaps:
 
 ## Architecture
 
-```mermaid
-flowchart LR
-    Y["cases.yaml<br/>question + golden SQL<br/>kind, severity, tolerance"] --> G["build_ground_truth()<br/>runs golden SQL<br/>on the Lakehouse"]
-    L[("Lakehouse<br/>(same data the<br/>agent queries)")] --> G
-    G -->|question, expected_answer| SDK["evaluate_data_agent()<br/>SDK, preview"]
-    SDK --> A["Data agent<br/>(sandbox stage)"]
-    A --> SDK
-    SDK -->|get_evaluation_details| S["score()"]
-    G --> S
-    S --> D["Deterministic checks<br/>numbers, rankings, refusals"]
-    S --> C["Critic verdicts<br/>true / false / unclear"]
-    D --> K["Calibration<br/>agreement, kappa,<br/>critic false passes"]
-    C --> K
-    D --> GATE{"Release gate<br/>per severity"}
-    GATE -->|pass| P["Publish to production"]
-    GATE -->|fail| F["Fix instructions,<br/>examples or schema"]
-```
+![Evaluation harness for a Fabric data agent: golden-SQL ground truth, the SDK run against the sandbox agent, deterministic checks beside the LLM critic, calibration and a release gate](/assets/img/posts/fabric-data-agent-eval-architecture.png){: width="2400" height="1014" }
+_The blue path decides the release. The orange path is advisory: it measures how far the LLM critic can be trusted._
 
 The SDK stays in the middle and does what it does well: it runs questions through the real agent with the real identity and data sources. Around it, the harness owns the parts you can make deterministic.
 
