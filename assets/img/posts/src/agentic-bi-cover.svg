@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+<defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1a2740"/></pattern></defs><rect width="1200" height="630" fill="#0b1220"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="0" y="0" width="1200" height="6" fill="#00d9c0"/>
+<text x="64" y="92" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="16" fill="#00d9c0" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">REFERENCE ARCHITECTURE · NOV 2026</text>
+<text x="64" y="170" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" fill="#e6edf3" font-weight="750" text-anchor="start" letter-spacing="0" opacity="1">Agentic BI on</text>
+<text x="64" y="236" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" fill="#e6edf3" font-weight="750" text-anchor="start" letter-spacing="0" opacity="1">Microsoft Fabric</text>
+<text x="64" y="300" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">After FabCon 2026: Fabric IQ, data agents,</text>
+<text x="64" y="332" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">operations agents and where they surface</text>
+<rect x="700" y="96" width="436" height="74" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
+<text x="718" y="126" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15" fill="#00d9c0" font-weight="600" text-anchor="start" letter-spacing="1.5" opacity="1">04  SURFACES</text>
+<text x="718" y="150" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Copilot · Copilot Studio · Foundry · MCP</text>
+<rect x="700" y="188" width="436" height="74" rx="8" fill="#0f1a2e" stroke="#00d9c0" stroke-width="1.6"/>
+<text x="718" y="218" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15" fill="#00d9c0" font-weight="600" text-anchor="start" letter-spacing="1.5" opacity="1">03  AGENTS</text>
+<text x="718" y="242" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">data agents · operations agents</text>
+<rect x="700" y="280" width="436" height="74" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
+<text x="718" y="310" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15" fill="#00d9c0" font-weight="600" text-anchor="start" letter-spacing="1.5" opacity="1">02  FABRIC IQ</text>
+<text x="718" y="334" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">semantic models · ontology</text>
+<rect x="700" y="372" width="436" height="74" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
+<text x="718" y="402" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15" fill="#00d9c0" font-weight="600" text-anchor="start" letter-spacing="1.5" opacity="1">01  ONELAKE</text>
+<text x="718" y="426" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">lakehouse · eventhouse · mirroring</text>
+<rect x="686" y="82" width="464" height="388" rx="12" fill="none" stroke="#9d8cff" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="1150" y="494" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12" fill="#9d8cff" font-weight="500" text-anchor="end" letter-spacing="0" opacity="1">governance · identity · observability</text>
+<line x1="64" y1="540" x2="1136" y2="540" stroke="#2b3d5c" stroke-width="1"/>
+<text x="64" y="578" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#e6edf3" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">Aminata Mariétou GUEYE</text>
+<text x="64" y="602" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="14" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Data &amp; AI Architect · Microsoft Certified Trainer</text>
+<text x="1136" y="590" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="20" fill="#00d9c0" font-weight="600" text-anchor="end" letter-spacing="0" opacity="1">amgueye.dev</text>
+</svg>
