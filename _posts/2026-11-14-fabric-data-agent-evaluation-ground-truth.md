@@ -1,6 +1,6 @@
 ---
 title: "How Accurate Is Your Fabric Data Agent? Ground Truth as Code, Critic Calibration and a Release Gate"
-date: 2026-11-14 10:00:00 +0100
+date: 2026-11-14 08:00:00 +0100
 categories: [Data Platform, AI]
 tags: [microsoft-fabric, data-agent, evaluation, genai, agentic-ai, llmops]
 description: "Test a Fabric data agent before users trust it: golden-SQL ground truth, deterministic checks beside the SDK's LLM critic, and a CI release gate."
