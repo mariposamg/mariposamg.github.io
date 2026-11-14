@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+<rect width="1200" height="630" fill="#ffffff"/>
+<rect x="0" y="0" width="1200" height="6" fill="#0f6cbd"/>
+<text x="64" y="92" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#0f6cbd" font-weight="600" text-anchor="start" letter-spacing="1" opacity="1">MICROSOFT FABRIC · DATA AGENT EVALUATION</text>
+<text x="64" y="170" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="58" fill="#242424" font-weight="750" text-anchor="start" letter-spacing="0" opacity="1">How accurate is your</text>
+<text x="64" y="236" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="58" fill="#242424" font-weight="750" text-anchor="start" letter-spacing="0" opacity="1">Fabric data agent?</text>
+<text x="64" y="300" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="22" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Ground truth as code, critic calibration and a release gate</text>
+<defs><marker id="m" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0f6cbd"/></marker></defs>
+<rect x="52" y="352" width="1096" height="148" rx="12" fill="#f5f5f5" stroke="#d1d1d1" stroke-width="1.2"/>
+<rect x="78" y="378" width="232" height="96" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="96" y="416" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Golden SQL</text>
+<text x="96" y="444" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">expected answer from data</text>
+<line x1="316" y1="426" x2="348" y2="426" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#m)"/>
+<rect x="354" y="378" width="232" height="96" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="372" y="416" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Data agent</text>
+<text x="372" y="444" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">sandbox stage</text>
+<line x1="592" y1="426" x2="624" y2="426" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#m)"/>
+<rect x="630" y="378" width="232" height="96" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="648" y="416" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Checks + critic</text>
+<text x="648" y="444" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">numbers · rankings · refusals</text>
+<line x1="868" y1="426" x2="900" y2="426" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#m)"/>
+<rect x="906" y="378" width="232" height="96" rx="8" fill="#ffffff" stroke="#0f6cbd" stroke-width="1.8"/>
+<text x="924" y="416" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Release gate</text>
+<text x="924" y="444" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">per severity</text>
+<line x1="64" y1="540" x2="1136" y2="540" stroke="#d1d1d1" stroke-width="1"/>
+<text x="64" y="578" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#242424" font-weight="600" text-anchor="start" letter-spacing="0" opacity="1">Aminata Mariétou GUEYE</text>
+<text x="64" y="602" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Data &amp; AI Architect · Microsoft Certified Trainer</text>
+<text x="1136" y="590" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" fill="#0f6cbd" font-weight="600" text-anchor="end" letter-spacing="0" opacity="1">amgueye.dev</text>
+</svg>

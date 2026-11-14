@@ -1,116 +1,116 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1060" width="1600" height="1060">
-<defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1a2740"/></pattern></defs><rect width="1600" height="1060" fill="#0b1220"/><rect width="1600" height="1060" fill="url(#g)"/>
-<text x="60" y="62" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="15" fill="#00d9c0" font-weight="600" text-anchor="start" letter-spacing="2" opacity="1">AGENTIC BI ON MICROSOFT FABRIC</text>
-<text x="60" y="94" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#e6edf3" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">Reference architecture after FabCon 2026</text>
-<text x="1540" y="62" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">amgueye.dev · rev. 14 Nov 2026</text>
-<defs><marker id="at" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#00d9c0"/></marker><marker id="aa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f2b84b"/></marker></defs>
-<path d="M260,290 L260,374" fill="none" stroke="#00d9c0" stroke-width="2.2" marker-end="url(#at)"/>
-<path d="M430,290 L430,374" fill="none" stroke="#00d9c0" stroke-width="2.2" marker-end="url(#at)"/>
-<path d="M260,510 L260,594" fill="none" stroke="#00d9c0" stroke-width="2.2" marker-end="url(#at)"/>
-<path d="M260,710 L260,794" fill="none" stroke="#00d9c0" stroke-width="2.2" marker-end="url(#at)"/>
-<path d="M740,796 L740,712" fill="none" stroke="#f2b84b" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
-<path d="M740,596 L740,512" fill="none" stroke="#f2b84b" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
-<path d="M560,376 L560,318 L330,318 L330,292" fill="none" stroke="#f2b84b" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
-<rect x="60" y="130" width="1190" height="176" rx="10" fill="none" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="80" y="160" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="14" fill="#00d9c0" font-weight="600" text-anchor="start" letter-spacing="1.5" opacity="1">04  SURFACES</text>
-<text x="1230" y="160" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">where people and other agents ask</text>
-<rect x="80.0" y="176" width="274.0" height="114" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="96.0" y="206" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Microsoft 365 Copilot</text>
-<text x="96.0" y="230" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Chat · Cowork · Teams</text>
-<rect x="372.0" y="176" width="274.0" height="114" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="388.0" y="206" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Copilot Studio</text>
-<text x="388.0" y="230" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">data agents as tools · Teams</text>
-<rect x="664.0" y="176" width="274.0" height="114" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="680.0" y="206" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Microsoft Foundry</text>
-<text x="680.0" y="230" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Fabric IQ tool · MCP · traces</text>
-<rect x="854.6" y="190" width="67.39999999999999" height="20" rx="10" fill="none" stroke="#f2b84b" stroke-width="1.2"/><text x="888.3000000000001" y="204.5" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="11" fill="#f2b84b" font-weight="600" text-anchor="middle" letter-spacing="0.5" opacity="1">PREVIEW</text>
-<rect x="956.0" y="176" width="274.0" height="114" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="972.0" y="206" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Custom apps &amp; IDEs</text>
-<text x="972.0" y="230" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">MCP endpoints</text>
-<rect x="60" y="330" width="1190" height="196" rx="10" fill="none" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="80" y="360" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="14" fill="#00d9c0" font-weight="600" text-anchor="start" letter-spacing="1.5" opacity="1">03  AGENTS</text>
-<text x="1230" y="360" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">ask  ·  watch  ·  act</text>
-<rect x="80.0" y="376" width="371.3333333333333" height="134" rx="8" fill="#0f1a2e" stroke="#00d9c0" stroke-width="1.6"/>
-<text x="96.0" y="406" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Data agents</text>
-<text x="96.0" y="430" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">ask: NL → SQL · DAX · KQL</text>
-<text x="96.0" y="450" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">read-only · user identity</text>
-<rect x="469.3333333333333" y="376" width="371.3333333333333" height="134" rx="8" fill="#0f1a2e" stroke="#00d9c0" stroke-width="1.6"/>
-<text x="485.3333333333333" y="406" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Operations agents</text>
-<text x="485.3333333333333" y="430" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">watch: playbook of rules</text>
-<text x="485.3333333333333" y="450" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">recommend → human approves</text>
-<rect x="858.6666666666666" y="376" width="371.3333333333333" height="134" rx="8" fill="#0f1a2e" stroke="#00d9c0" stroke-width="1.6"/>
-<text x="874.6666666666666" y="406" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Activator</text>
-<text x="874.6666666666666" y="430" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">deterministic rules</text>
-<text x="874.6666666666666" y="450" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">alerts · flows · notebooks</text>
-<rect x="60" y="550" width="1190" height="176" rx="10" fill="none" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="80" y="580" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="14" fill="#00d9c0" font-weight="600" text-anchor="start" letter-spacing="1.5" opacity="1">02  FABRIC IQ</text>
-<text x="1230" y="580" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">business context</text>
-<rect x="80.0" y="596" width="371.3333333333333" height="114" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="96.0" y="626" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Semantic models</text>
-<text x="96.0" y="650" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">certified measures · RLS</text>
-<text x="96.0" y="670" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">already in M365 Copilot</text>
-<rect x="469.3333333333333" y="596" width="371.3333333333333" height="114" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="485.3333333333333" y="626" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Ontology</text>
-<text x="485.3333333333333" y="650" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">entities · relationships</text>
-<text x="485.3333333333333" y="670" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">rules · DAX metrics</text>
-<rect x="757.2666666666667" y="610" width="67.39999999999999" height="20" rx="10" fill="none" stroke="#f2b84b" stroke-width="1.2"/><text x="790.9666666666667" y="624.5" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="11" fill="#f2b84b" font-weight="600" text-anchor="middle" letter-spacing="0.5" opacity="1">PREVIEW</text>
-<rect x="858.6666666666666" y="596" width="371.3333333333333" height="114" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="874.6666666666666" y="626" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Graph</text>
-<text x="874.6666666666666" y="650" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">relationship traversal</text>
-<text x="874.6666666666666" y="670" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">(GQL)</text>
-<rect x="60" y="750" width="1190" height="156" rx="10" fill="none" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="80" y="780" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="14" fill="#00d9c0" font-weight="600" text-anchor="start" letter-spacing="1.5" opacity="1">01  ONELAKE</text>
-<text x="1230" y="780" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">one copy of the data</text>
-<rect x="80.0" y="796" width="371.3333333333333" height="94" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="96.0" y="826" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Lakehouse · Warehouse</text>
-<text x="96.0" y="850" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Delta tables · SQL endpoint</text>
-<rect x="469.3333333333333" y="796" width="371.3333333333333" height="94" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="485.3333333333333" y="826" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Eventhouse</text>
-<text x="485.3333333333333" y="850" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">real-time · KQL</text>
-<rect x="858.6666666666666" y="796" width="371.3333333333333" height="94" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="874.6666666666666" y="826" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Mirroring · shortcuts</text>
-<text x="874.6666666666666" y="850" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="13" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">ERP · CRM · other clouds</text>
-<defs><marker id="at" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#00d9c0"/></marker><marker id="aa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f2b84b"/></marker></defs>
-<path d="M260,290 L260,374" fill="none" stroke="#00d9c0" stroke-width="2.2" marker-end="url(#at)"/>
-<path d="M430,290 L430,374" fill="none" stroke="#00d9c0" stroke-width="2.2" marker-end="url(#at)"/>
-<path d="M260,510 L260,594" fill="none" stroke="#00d9c0" stroke-width="2.2" marker-end="url(#at)"/>
-<path d="M260,710 L260,794" fill="none" stroke="#00d9c0" stroke-width="2.2" marker-end="url(#at)"/>
-<path d="M740,796 L740,712" fill="none" stroke="#f2b84b" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
-<path d="M740,596 L740,512" fill="none" stroke="#f2b84b" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
-<path d="M560,376 L560,318 L330,318 L330,292" fill="none" stroke="#f2b84b" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
-<rect x="1280" y="130" width="260" height="776" rx="10" fill="none" stroke="#9d8cff" stroke-width="1.2" stroke-dasharray="5 5"/>
-<text x="1300" y="160" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="14" fill="#9d8cff" font-weight="600" text-anchor="start" letter-spacing="1.5" opacity="1">GOVERNANCE</text>
-<text x="1300" y="180" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="14" fill="#9d8cff" font-weight="600" text-anchor="start" letter-spacing="1.5" opacity="1">&amp; OBSERVABILITY</text>
-<rect x="1296" y="222" width="228" height="96" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="1312" y="250" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Entra ID</text>
-<text x="1312" y="274" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">the asking user's</text>
-<text x="1312" y="293" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">permissions, end to end</text>
-<rect x="1296" y="334" width="228" height="96" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="1312" y="362" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">RLS · CLS</text>
-<text x="1312" y="386" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">enforced on every</text>
-<text x="1312" y="405" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">surface</text>
-<rect x="1296" y="446" width="228" height="96" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="1312" y="474" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">OneLake security</text>
-<text x="1312" y="498" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">table, row and column</text>
-<text x="1312" y="517" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">roles on the data</text>
-<rect x="1296" y="558" width="228" height="96" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="1312" y="586" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Purview</text>
-<text x="1312" y="610" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">DLP · audit ·</text>
-<text x="1312" y="629" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">eDiscovery on prompts</text>
-<rect x="1296" y="670" width="228" height="96" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="1312" y="698" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Entra Agent ID</text>
-<text x="1312" y="722" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">one identity per agent,</text>
-<text x="1312" y="741" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">a human owner</text>
-<rect x="1296" y="782" width="228" height="96" rx="8" fill="#0f1a2e" stroke="#2b3d5c" stroke-width="1.2"/>
-<text x="1312" y="810" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e6edf3" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Traces</text>
-<text x="1312" y="834" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Foundry observability ·</text>
-<text x="1312" y="853" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">agent activity log</text>
-<rect x="60" y="950" width="1480" height="72" rx="10" fill="none" stroke="#2b3d5c" stroke-width="1.2"/>
-<line x1="84" y1="986" x2="134" y2="986" stroke="#00d9c0" stroke-width="2"/>
-<text x="146" y="991" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#e6edf3" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">ASK: a person asks on a surface → data agent → Fabric IQ → query on OneLake, with the user's permissions</text>
-<text x="1516" y="991" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="1" fill="#e6edf3" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1"></text>
-<line x1="84" y1="1010" x2="134" y2="1010" stroke="#f2b84b" stroke-width="2" stroke-dasharray="6 5"/>
-<text x="146" y="1015" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#e6edf3" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">ACT: operations agent detects a condition → recommendation in Teams → a person approves → action runs</text>
-<text x="1516" y="991" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">PREVIEW = public preview on 14 Nov 2026</text>
-<text x="1516" y="1011" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8b9bb4" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">(Microsoft Learn, Fabric roadshow).</text>
+<defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff"/></pattern></defs><rect width="1600" height="1060" fill="#ffffff"/><rect width="1600" height="1060" fill="url(#g)"/>
+<text x="60" y="62" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#0f6cbd" font-weight="600" text-anchor="start" letter-spacing="1" opacity="1">AGENTIC BI ON MICROSOFT FABRIC</text>
+<text x="60" y="94" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="26" fill="#242424" font-weight="700" text-anchor="start" letter-spacing="0" opacity="1">Reference architecture after FabCon 2026</text>
+<text x="1540" y="62" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">amgueye.dev · rev. 14 Nov 2026</text>
+<defs><marker id="at" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f6cbd"/></marker><marker id="aa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#bc4b09"/></marker></defs>
+<path d="M260,290 L260,374" fill="none" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#at)"/>
+<path d="M430,290 L430,374" fill="none" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#at)"/>
+<path d="M260,510 L260,594" fill="none" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#at)"/>
+<path d="M260,710 L260,794" fill="none" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#at)"/>
+<path d="M740,796 L740,712" fill="none" stroke="#bc4b09" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
+<path d="M740,596 L740,512" fill="none" stroke="#bc4b09" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
+<path d="M560,376 L560,318 L330,318 L330,292" fill="none" stroke="#bc4b09" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
+<rect x="60" y="130" width="1190" height="176" rx="10" fill="#f5f5f5" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="80" y="160" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#0f6cbd" font-weight="600" text-anchor="start" letter-spacing="0.8" opacity="1">04  SURFACES</text>
+<text x="1230" y="160" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">where people and other agents ask</text>
+<rect x="80.0" y="176" width="274.0" height="114" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="96.0" y="206" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Microsoft 365 Copilot</text>
+<text x="96.0" y="230" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Chat · Cowork · Teams</text>
+<rect x="372.0" y="176" width="274.0" height="114" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="388.0" y="206" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Copilot Studio</text>
+<text x="388.0" y="230" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">data agents as tools · Teams</text>
+<rect x="664.0" y="176" width="274.0" height="114" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="680.0" y="206" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Microsoft Foundry</text>
+<text x="680.0" y="230" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Fabric IQ tool · MCP · traces</text>
+<rect x="854.6" y="190" width="67.39999999999999" height="20" rx="10" fill="none" stroke="#bc4b09" stroke-width="1.2"/><text x="888.3000000000001" y="204.5" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#bc4b09" font-weight="600" text-anchor="middle" letter-spacing="0.5" opacity="1">PREVIEW</text>
+<rect x="956.0" y="176" width="274.0" height="114" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="972.0" y="206" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Custom apps &amp; IDEs</text>
+<text x="972.0" y="230" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">MCP endpoints</text>
+<rect x="60" y="330" width="1190" height="196" rx="10" fill="#f5f5f5" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="80" y="360" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#0f6cbd" font-weight="600" text-anchor="start" letter-spacing="0.8" opacity="1">03  AGENTS</text>
+<text x="1230" y="360" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">ask  ·  watch  ·  act</text>
+<rect x="80.0" y="376" width="371.3333333333333" height="134" rx="8" fill="#ffffff" stroke="#0f6cbd" stroke-width="1.6"/>
+<text x="96.0" y="406" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Data agents</text>
+<text x="96.0" y="430" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">ask: NL → SQL · DAX · KQL</text>
+<text x="96.0" y="450" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">read-only · user identity</text>
+<rect x="469.3333333333333" y="376" width="371.3333333333333" height="134" rx="8" fill="#ffffff" stroke="#0f6cbd" stroke-width="1.6"/>
+<text x="485.3333333333333" y="406" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Operations agents</text>
+<text x="485.3333333333333" y="430" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">watch: playbook of rules</text>
+<text x="485.3333333333333" y="450" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">recommend → human approves</text>
+<rect x="858.6666666666666" y="376" width="371.3333333333333" height="134" rx="8" fill="#ffffff" stroke="#0f6cbd" stroke-width="1.6"/>
+<text x="874.6666666666666" y="406" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Activator</text>
+<text x="874.6666666666666" y="430" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">deterministic rules</text>
+<text x="874.6666666666666" y="450" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">alerts · flows · notebooks</text>
+<rect x="60" y="550" width="1190" height="176" rx="10" fill="#f5f5f5" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="80" y="580" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#0f6cbd" font-weight="600" text-anchor="start" letter-spacing="0.8" opacity="1">02  FABRIC IQ</text>
+<text x="1230" y="580" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">business context</text>
+<rect x="80.0" y="596" width="371.3333333333333" height="114" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="96.0" y="626" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Semantic models</text>
+<text x="96.0" y="650" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">certified measures · RLS</text>
+<text x="96.0" y="670" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">already in M365 Copilot</text>
+<rect x="469.3333333333333" y="596" width="371.3333333333333" height="114" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="485.3333333333333" y="626" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Ontology</text>
+<text x="485.3333333333333" y="650" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">entities · relationships</text>
+<text x="485.3333333333333" y="670" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">rules · DAX metrics</text>
+<rect x="757.2666666666667" y="610" width="67.39999999999999" height="20" rx="10" fill="none" stroke="#bc4b09" stroke-width="1.2"/><text x="790.9666666666667" y="624.5" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="11" fill="#bc4b09" font-weight="600" text-anchor="middle" letter-spacing="0.5" opacity="1">PREVIEW</text>
+<rect x="858.6666666666666" y="596" width="371.3333333333333" height="114" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="874.6666666666666" y="626" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Graph</text>
+<text x="874.6666666666666" y="650" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">relationship traversal</text>
+<text x="874.6666666666666" y="670" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">(GQL)</text>
+<rect x="60" y="750" width="1190" height="156" rx="10" fill="#f5f5f5" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="80" y="780" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#0f6cbd" font-weight="600" text-anchor="start" letter-spacing="0.8" opacity="1">01  ONELAKE</text>
+<text x="1230" y="780" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">one copy of the data</text>
+<rect x="80.0" y="796" width="371.3333333333333" height="94" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="96.0" y="826" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Lakehouse · Warehouse</text>
+<text x="96.0" y="850" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Delta tables · SQL endpoint</text>
+<rect x="469.3333333333333" y="796" width="371.3333333333333" height="94" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="485.3333333333333" y="826" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Eventhouse</text>
+<text x="485.3333333333333" y="850" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">real-time · KQL</text>
+<rect x="858.6666666666666" y="796" width="371.3333333333333" height="94" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="874.6666666666666" y="826" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Mirroring · shortcuts</text>
+<text x="874.6666666666666" y="850" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">ERP · CRM · other clouds</text>
+<defs><marker id="at" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f6cbd"/></marker><marker id="aa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#bc4b09"/></marker></defs>
+<path d="M260,290 L260,374" fill="none" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#at)"/>
+<path d="M430,290 L430,374" fill="none" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#at)"/>
+<path d="M260,510 L260,594" fill="none" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#at)"/>
+<path d="M260,710 L260,794" fill="none" stroke="#0f6cbd" stroke-width="2.2" marker-end="url(#at)"/>
+<path d="M740,796 L740,712" fill="none" stroke="#bc4b09" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
+<path d="M740,596 L740,512" fill="none" stroke="#bc4b09" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
+<path d="M560,376 L560,318 L330,318 L330,292" fill="none" stroke="#bc4b09" stroke-width="2.2" stroke-dasharray="6 5" marker-end="url(#aa)"/>
+<rect x="1280" y="130" width="260" height="776" rx="10" fill="#f5f5f5" stroke="#8a8886" stroke-width="1.2" stroke-dasharray="5 5"/>
+<text x="1300" y="160" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#5c5c5c" font-weight="600" text-anchor="start" letter-spacing="0.8" opacity="1">GOVERNANCE</text>
+<text x="1300" y="180" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" fill="#5c5c5c" font-weight="600" text-anchor="start" letter-spacing="0.8" opacity="1">&amp; OBSERVABILITY</text>
+<rect x="1296" y="222" width="228" height="96" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="1312" y="250" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Entra ID</text>
+<text x="1312" y="274" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">the asking user's</text>
+<text x="1312" y="293" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">permissions, end to end</text>
+<rect x="1296" y="334" width="228" height="96" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="1312" y="362" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">RLS · CLS</text>
+<text x="1312" y="386" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">enforced on every</text>
+<text x="1312" y="405" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">surface</text>
+<rect x="1296" y="446" width="228" height="96" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="1312" y="474" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">OneLake security</text>
+<text x="1312" y="498" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">table, row and column</text>
+<text x="1312" y="517" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">roles on the data</text>
+<rect x="1296" y="558" width="228" height="96" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="1312" y="586" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Purview</text>
+<text x="1312" y="610" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">DLP · audit ·</text>
+<text x="1312" y="629" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">eDiscovery on prompts</text>
+<rect x="1296" y="670" width="228" height="96" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="1312" y="698" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Entra Agent ID</text>
+<text x="1312" y="722" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">one identity per agent,</text>
+<text x="1312" y="741" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">a human owner</text>
+<rect x="1296" y="782" width="228" height="96" rx="8" fill="#ffffff" stroke="#d1d1d1" stroke-width="1.2"/>
+<text x="1312" y="810" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#242424" font-weight="650" text-anchor="start" letter-spacing="0" opacity="1">Traces</text>
+<text x="1312" y="834" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">Foundry observability ·</text>
+<text x="1312" y="853" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">agent activity log</text>
+<rect x="60" y="950" width="1480" height="72" rx="10" fill="#f5f5f5" stroke="#d1d1d1" stroke-width="1.2"/>
+<line x1="84" y1="986" x2="134" y2="986" stroke="#0f6cbd" stroke-width="2"/>
+<text x="146" y="991" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13.5" fill="#242424" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">ASK: a person asks on a surface → data agent → Fabric IQ → query on OneLake, with the user's permissions</text>
+<text x="1516" y="991" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="1" fill="#242424" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1"></text>
+<line x1="84" y1="1010" x2="134" y2="1010" stroke="#bc4b09" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="146" y="1015" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13.5" fill="#242424" font-weight="400" text-anchor="start" letter-spacing="0" opacity="1">ACT: operations agent detects a condition → recommendation in Teams → a person approves → action runs</text>
+<text x="1516" y="991" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">PREVIEW = public preview on 14 Nov 2026</text>
+<text x="1516" y="1011" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="12.5" fill="#616161" font-weight="400" text-anchor="end" letter-spacing="0" opacity="1">(Microsoft Learn, Fabric roadshow).</text>
 </svg>
