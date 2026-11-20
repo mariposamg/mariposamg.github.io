@@ -45,7 +45,7 @@ For architects, the consequence is direct: a semantic model is now an interface 
 
 ## The reference architecture
 
-![Agentic BI reference architecture on Microsoft Fabric: OneLake, Fabric IQ, agents and surfaces, with a governance band](/assets/img/posts/agentic-bi-architecture.png){: width="2400" height="1590" }
+![Agentic BI reference architecture on Microsoft Fabric: OneLake, Fabric IQ, agents and surfaces, with a governance band](/assets/img/posts/agentic-bi-architecture.png){: width="2400" height="1815" }
 _Four layers and one cross-cutting band. The solid path is "ask", the dashed path is "act"._
 
 Read it bottom-up: each layer only works if the one below it is in order.
